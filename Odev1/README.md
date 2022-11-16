@@ -1,3 +1,3 @@
 # Ödev 1
 
-![Odev]()
+![Odev](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev1/Odev1.jpg)
