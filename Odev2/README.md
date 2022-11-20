@@ -8,5 +8,5 @@
 6. [Maaş Hesaplama](https://github.com/dogukaanatlar/techcareer.net-Android/tree/main/Odev2/MaasHesabi)
 7. [Otopark](https://github.com/dogukaanatlar/techcareer.net-Android/tree/main/Odev2/Otopark)
 
-![odev2_1]()
-![odev2_2]()
+![odev2_1](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev2/Odev2_1.jpg)
+![odev2_2](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev2/Odev2_2.jpg)
