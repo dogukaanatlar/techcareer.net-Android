@@ -17,3 +17,7 @@
 
   ![app_tr](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev3/app_tr.jpg)
   ![app_tr_dark](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev3/app_tr_dark.jpg)
+
+* Tablet Versiyon
+
+  ![tablet_mode]()
