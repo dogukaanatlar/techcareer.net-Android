@@ -20,4 +20,4 @@
 
 * Tablet Versiyon
 
-  ![tablet_mode]()
+  ![tablet_mode](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev3/tablet_mode.jpg)
