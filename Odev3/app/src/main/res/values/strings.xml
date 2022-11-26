@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fluffy</string>
+    <string name="animalName">Lena</string>
+    <string name="distanceAway">2.5 km away</string>
+    <string name="age">5 months</string>
+    <string name="breed">Siamese</string>
+    <string name="gender">Female</string>
+    <string name="weight">3 kg</string>
+    <string name="nameTitle">Lena About</string>
+    <string name="aboutAnimal">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="price">$ 95</string>
+    <string name="buttonName">ADOPT ME</string>
+
+
+</resources>

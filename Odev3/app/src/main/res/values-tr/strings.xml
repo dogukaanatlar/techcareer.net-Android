@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fluffy</string>
+    <string name="animalName">Lena</string>
+    <string name="distanceAway">2.5 km uzakta</string>
+    <string name="age">5 aylık</string>
+    <string name="breed">Siyam</string>
+    <string name="gender">Dişi</string>
+    <string name="weight">3 kg</string>
+    <string name="nameTitle">Lena Hakkında</string>
+    <string name="aboutAnimal">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="price">₺ 125</string>
+    <string name="buttonName">EVLAT EDİN</string>
+
+
+</resources>
