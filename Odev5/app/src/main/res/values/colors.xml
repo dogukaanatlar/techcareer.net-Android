@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="islem_koyu">#010166</color>
+    <color name="esit">#FF6201</color>
+    <color name="numaralar">#737373</color>
+    <color name="islem_acik">#494B92</color>
+    <color name="harf">#F4F4F4</color>
+
 </resources>
