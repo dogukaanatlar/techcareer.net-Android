@@ -27,7 +27,7 @@ Android Developer Bootcamp kapsamında verilen ödevleri ve projeleri içerir.
 
 6. Ödev
 
-    []()
+    [Steam App Listeleme](https://github.com/dogukaanatlar/techcareer.net-Android/tree/main/Odev6)
 
 7. Ödev
 
