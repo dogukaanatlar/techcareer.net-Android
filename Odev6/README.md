@@ -7,4 +7,4 @@
 
 ![steamappgif](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev6/steam_app.gif)
 
-![screenShot](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev6/Screenshot_steam_pixel2.png)
+![screenShot](https://github.com/dogukaanatlar/techcareer.net-Android/blob/main/Odev6/Screenshot_steam_status.png)
