@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/anaRenk"
+        tools:context=".ui.fragment.AnasayfaFragment">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarAnasayfa"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/toolbarRenk"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:logo="@drawable/steam_header_logo_x26"
+
+            />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewOneCık" />
+
+        <TextView
+            android:id="@+id/textViewMenu"
+            android:layout_width="0dp"
+            android:layout_height="22dp"
+            android:background="@color/toolbarRenk"
+            android:fontFamily="@font/arial"
+            android:text="MENÜ"
+            android:textAlignment="textEnd"
+            android:textColor="@color/yaziRenk"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toStartOf="@+id/textViewIstek"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarAnasayfa" />
+
+        <TextView
+            android:id="@+id/textViewIstek"
+            android:layout_width="0dp"
+            android:layout_height="22dp"
+            android:background="@color/toolbarRenk"
+            android:fontFamily="@font/arial"
+            android:text="İSTEK LİSTESİ"
+            android:textAlignment="center"
+            android:textColor="@color/yaziRenk"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toStartOf="@+id/textViewCuzdan"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/textViewMenu"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarAnasayfa" />
+
+        <TextView
+            android:id="@+id/textViewCuzdan"
+            android:layout_width="0dp"
+            android:layout_height="22dp"
+            android:background="@color/toolbarRenk"
+            android:fontFamily="@font/arial"
+            android:text="CÜZDAN"
+            android:textAlignment="textStart"
+            android:textColor="@color/yaziRenk"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/textViewIstek"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarAnasayfa" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/potioncraft"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rv" />
+
+        <TextView
+            android:id="@+id/textViewOneCık"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/steamfont"
+            android:text="ÖNE ÇIKANLAR VE TAVSİYE EDİLENLER"
+            android:textAlignment="textStart"
+            android:textColor="@color/yaziRenk"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewIstek" />
+
+        <TextView
+            android:id="@+id/textViewTeklif"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/steamfont"
+            android:text="ÖZEL TEKLİFLER"
+            android:textAlignment="textStart"
+            android:textColor="@color/yaziRenk"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewTeklif" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+
