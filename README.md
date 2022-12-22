@@ -31,4 +31,4 @@ Android Developer Bootcamp kapsamında verilen ödevleri ve projeleri içerir.
 
 7. Ödev
 
-    []()
+    [ToDo App](https://github.com/dogukaanatlar/techcareer.net-Android/tree/main/Odev7)
